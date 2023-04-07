@@ -78,7 +78,7 @@ You can also connect using any S3-compatible tool, such as the MinIO Client `mc`
 
 ## GNU/Linux
 
-Use the following command to run a standalone MinIO server on Linux hosts running 64-bit Intel/AMD architectures. Replace ``/data`` with the path to the drive or directory in which you want MinIO to store data.
+Use the following command to run a standalone MinIO server on Linux hosts running 64-bit Intel/AMD architectures. 
 
 ```sh
 wget https://dl.min.io/server/minio/release/linux-amd64/minio
